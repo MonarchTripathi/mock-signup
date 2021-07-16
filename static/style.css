@@ -1,0 +1,50 @@
+body{
+margin-top: 0;
+margin: auto;
+}
+input{
+margin: auto;
+
+margin-top: 40px;
+width: 30%;
+  display: block;
+  border-radius: 2%;
+  border-width: thin;
+  background-color:  #EDEEF7;
+
+}
+#txtar{
+  margin: auto;
+
+  margin-top: 40px;
+  width: 30%;
+    display: block;
+    border-radius: 2%;
+    border-width: thin;
+    background-color:  #EDEEF7;
+
+}
+.btn{
+  margin: auto;
+  background-color: #EDEEF7;
+  display: block;
+  margin-top: 40px;
+}
+
+
+
+.navbar{
+padding-bottom: 0;
+}
+.nav-item{
+  color: white;
+}
+.cover{
+  background-image: url("risen-wang-20jX9b35r_M-unsplash.jpg");
+  height: 500px;
+  background-position: center;
+  opacity: 0.83;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
